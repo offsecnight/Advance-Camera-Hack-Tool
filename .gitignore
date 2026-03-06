@@ -1,0 +1,69 @@
+# Captured images
+captures/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+
+# Server logs
+*.log
+logs/
+
+# PHP
+vendor/
+composer.lock
+
+# Node modules (if using Node.js)
+node_modules/
+package-lock.json
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Backup files
+*.bak
+*.backup
+
+# SSL certificates (keep private)
+*.pem
+*.key
+*.crt
+*.csr
+
+# Configuration files with sensitive data
+config.php
+settings.php
+database.php
+
+# Upload directory
+uploads/
+upload/
+
+# Cache
+cache/
+*.cache
